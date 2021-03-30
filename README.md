@@ -1,2 +1,14 @@
-# replit.com-clone
-This is a FRONTEND clone of replit.com and DOES NOT contain the IDE but the main pages.
+# Replit.com
+A clone of replit.com I made for fun
+## Preview: 
+#### Coming Soon...
+
+
+## Installation
+```bash
+$ git clone https://github.com/SecretAyee/replit.com-clone
+```
+
+And then run `index.html`
+
+
