@@ -1,7 +1,7 @@
 # Replit.com
 A clone of replit.com I made for fun
 ## Preview: 
-#### Coming Soon...
+https://replit.diwanmohamed.repl.co/
 
 
 ## Installation
